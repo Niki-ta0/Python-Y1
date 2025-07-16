@@ -1,5 +1,4 @@
 # Python-Y1
-# Python-Y1
 # Land Rental System – Techno Property Nepal
 
 This project is a beginner-friendly Python-based **Land Rental Management System** developed for Techno Property Nepal. It allows users to **rent** and **return** land via a text-based interface. The system handles invoice generation, availability tracking, and fine calculation using `.txt` files for data storage.

@@ -1,0 +1,7 @@
+195,Butwal,West,5,40000,Available
+112,Chitwan,East,6,60000,Available
+121,Kathmandu,North,9,90000,Available
+122,Bhairahawa,South,2,10000,Available
+212,Lalitpur,East,4,80000,Available
+222,Pokhara,East,5,80000,Available
+le

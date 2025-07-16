@@ -1,0 +1,32 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Return Invoice is generated here:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rented invoice date:2025-04-18 19:33:47
+Name: nn
+Number of the borrower:8888888888
+Kitta Number: 222
+Address: Pokhara
+Direction of land: East
+Months Taken: 2
+Months Returning For: 1
+Total Fine: Rs. 0
+Total Amount: Rs. 80000
+Extra Months: -1
+~~~~~~~~~~~Thanks for choosing us~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Return Invoice is generated here:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rented invoice date:2025-04-18 19:33:47
+Name: nn
+Number of the borrower:8888888888
+Kitta Number: 195
+Address: Butwal
+Direction of land: West
+Months Taken: 2
+Months Returning For: 6
+Total Fine: Rs. 16000
+Total Amount: Rs. 256000
+Extra Months: 4
+~~~~~~~~~~~Thanks for choosing us~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
